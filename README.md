@@ -1,4 +1,4 @@
-The Task: build an application providing keyword search over tweets (please use Java).
+The Task: build an application providing keyword search over tweets.
 
 Breakdown:
 -
